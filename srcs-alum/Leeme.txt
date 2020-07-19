@@ -1,0 +1,7 @@
+Se ha usado Ubuntu 14.04 para la compilación
+
+Las teclas que se pueden usar son las especificadas en los guiones de prácticas.
+
+Practica4:
+
+Se ha añadido el material usado para la tapa de las latas en la cabeza del robot para darle mas realismo metálico, iría situado en el nodo anterior a Cabeza, despues en el nodo anterior a Cuerpo se añade material blanco afectando a cuerpo y brazos simulando que lleva una camiseta, por último se añade material negro a las piernas simulando unos pantalones.
